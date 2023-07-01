@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/poromodo-clock/static/css/main.9b6e51be.css",
+    "main.js": "/poromodo-clock/static/js/main.07850d03.js",
+    "static/js/787.41ceb4f9.chunk.js": "/poromodo-clock/static/js/787.41ceb4f9.chunk.js",
+    "index.html": "/poromodo-clock/index.html",
+    "main.9b6e51be.css.map": "/poromodo-clock/static/css/main.9b6e51be.css.map",
+    "main.07850d03.js.map": "/poromodo-clock/static/js/main.07850d03.js.map",
+    "787.41ceb4f9.chunk.js.map": "/poromodo-clock/static/js/787.41ceb4f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b6e51be.css",
+    "static/js/main.07850d03.js"
+  ]
+}
